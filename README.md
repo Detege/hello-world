@@ -1,2 +1,3 @@
 # hello-world
 Short description
+Just starting to use Github, I'm trying to make a mechanical keyboard with a Teensy 2 board. I haven't got anything but problems since I started. I don't know what I'm doing, so that's probably why...
